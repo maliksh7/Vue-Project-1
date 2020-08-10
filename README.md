@@ -1,4 +1,4 @@
-# vue-materia-shop
+# E-Stream Cart in VUE.Js
 
 ## Project setup
 ```
